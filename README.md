@@ -72,3 +72,5 @@ templates in the same bucket under the path `s3://amazon-eks/1.10.3/2018-06-05/`
 ## License Summary
 
 This sample code is made available under a modified MIT license. See the LICENSE file.
+
+Make changes to support RedHat
